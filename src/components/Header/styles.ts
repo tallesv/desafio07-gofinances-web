@@ -18,9 +18,10 @@ export const Container = styled.div<ContainerProps>`
 
     nav {
       a {
-        color: #fff;
+        color: #ffffff;
         text-decoration: none;
         font-size: 16px;
+        font-style: normal;
         transition: opacity 0.2s;
 
         & + a {
